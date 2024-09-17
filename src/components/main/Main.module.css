@@ -10,3 +10,12 @@
     justify-content: center;
     flex-direction: column;
 }
+
+.title{
+    font-size: 50px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: -1300px;
+}
