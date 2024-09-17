@@ -1,0 +1,57 @@
+.card{
+    display: flex;
+    width: fit-content;
+    gap: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0px 0px 2px 0px black;
+    border-radius: 5px;
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    font-size: 7px;
+    gap: -10px;
+}
+
+.image{
+    height: 120px;
+    margin-top: 12px;
+}
+
+
+.bola{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.union{
+    display: flex;
+    gap: 30px;
+}
+
+.price{
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 20px;
+}
+
+.desc{
+    font-size: 12px;
+}
